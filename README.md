@@ -1,2 +1,3 @@
 # SmartBus
-Public Transport Intelligent Dispatching System，android app code
+The project aims to use wireless network, satellite positioning system, and vehicle to carry out real-time monitoring, real-time communication and operation task management of public transportation system. The technology stack involved includes big front-end (Android, IOS, web,PC), back-end (communication service, web server), vehicle embedded device (Android device can be used to simulate vehicle). In addition, it needs to supplement the efficiency auxiliary tools (station positioning collection tools, inspection tools, etc.)
+Public Transport Intelligent Dispatching System,android app code.
